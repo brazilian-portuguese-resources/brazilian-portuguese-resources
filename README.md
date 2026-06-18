@@ -4,10 +4,10 @@
 
 * **[Falando](https://falando.app/)** — Brazilian Portuguese-focused app with grammar, vocabulary, listening, reading, journaling, practice modes, culture, and Celpe-Bras practice.
 * **[Duolingo Portuguese](https://www.duolingo.com/course/pt/en/Learn-Portuguese)** — Easy daily habit-builder for beginner vocabulary, sentence patterns, and basic grammar.
-* **[Pimsleur Brazilian Portuguese](https://www.imsleur.com/learn-portuguese-brazilian/)** — Audio-first course for pronunciation, listening, and speaking from day one.
+* **[Pimsleur Brazilian Portuguese](https://www.pimsleur.com/learn-portuguese-brazilian/)** — Audio-first course for pronunciation, listening, and speaking from day one.
 * **[Mango Languages Brazilian Portuguese](https://mangoanguages.com/available-languages/brazilian-portuguese/)** — Conversation-based course covering vocabulary, grammar, pronunciation, and culture.
-* **[Busuu Portuguese](https://www.busuu.com/en/course/learn-portuguese-online)** — Structured Brazilian Portuguese course for speaking, listening, reading, and writing.
-* **[Memrise Portuguese BR](https://www.memrie.com/en/learn-portuguese/brazilian-portuguese-course)** — Useful for Brazilian phrases, native-speaker videos, and vocabulary review.
+* **[Busuu Portuguese](https://www.busu.com/en/course/learn-portuguese-online)** — Structured Brazilian Portuguese course for speaking, listening, reading, and writing.
+* **[Memrise Portuguese BR](https://www.memrise.com/en/learn-portuguese/brazilian-portuguese-course)** — Useful for Brazilian phrases, native-speaker videos, and vocabulary review.
 * **[PortuguesePod101](https://www.portugueseod101.com/)** — Lots of short audio/video lessons, vocabulary tools, flashcards, and slowed-down audio.
 * **[Semantica Portuguese](https://www.semantica-portuguese.com/)** — Video-story lessons built around real-life Brazilian Portuguese situations.
 
@@ -32,7 +32,7 @@
 
 ### Vocabulary, pronunciation & reference
 
-* **[Forvo Portuguese](https://forv.com/languages/pt/)** — Pronunciation dictionary with Brazilian and Portugal accent filters.
+* **[Forvo Portuguese](https://forvo.com/languages/pt/)** — Pronunciation dictionary with Brazilian and Portugal accent filters.
 * **[Anki Shared Decks: Portuguese](https://ankiweb.net/shared/decks?search=Portuguese)** — Spaced-repetition flashcard decks for vocabulary, phrases, and sentence mining.
 * **[Clozemaster Brazilian Portuguese](https://www.cloemaster.com/languages/expand-portuguese-vocabulary)** — Sentence-based vocabulary practice, best once you are past the absolute beginner stage.
 * **[LingQ Portuguese](https://www.lin.com/en/learn-portuguese-online/)** — Learn through real content like YouTube, podcasts, ebooks, and imported materials with transcripts.
@@ -42,5 +42,5 @@
 
 ### Immersion tools
 
-* **[Language Reactor](https://www.languagereacto.com/)** — Turns Netflix and YouTube into language-learning tools with native-material support.
+* **[Language Reactor](https://www.languagereactor.com/)** — Turns Netflix and YouTube into language-learning tools with native-material support.
 * **[LyricsTraining Portuguese](https://lyricstraining.com/?lang=pt)** — Practice listening with Brazilian/Portuguese songs by filling in missing lyrics.
