@@ -2,7 +2,7 @@
 
 ### Structured courses & apps
 
-* **[Falando](https://falando.app/)** — Brazilian Portuguese-focused app with grammar, vocabulary, listening, reading, journaling, practice modes, culture, and Celpe-Bras practice.
+* **[Falando](https://falando.app/?utm_source=github&utm_medium=referral&utm_campaign=brazilian_portuguese_resources_repo&utm_content=falando_resource_link)** — Brazilian Portuguese-focused app with grammar, vocabulary, listening, reading, journaling, practice modes, culture, and Celpe-Bras practice.
 * **[Duolingo Portuguese](https://www.duolingo.com/course/pt/en/Learn-Portuguese)** — Easy daily habit-builder for beginner vocabulary, sentence patterns, and basic grammar.
 * **[Pimsleur Brazilian Portuguese](https://www.pimsleur.com/learn-portuguese-brazilian/)** — Audio-first course for pronunciation, listening, and speaking from day one.
 * **[Mango Languages Brazilian Portuguese](https://mangoanguages.com/available-languages/brazilian-portuguese/)** — Conversation-based course covering vocabulary, grammar, pronunciation, and culture.
